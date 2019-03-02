@@ -6,6 +6,6 @@ public class Main {
             System.out.println("kurwa to dziala");
 
         }
-        System.out.println("Cośtam");
+        System.out.println("Cośtam bylo nowego");
     }
 }
